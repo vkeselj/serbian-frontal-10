@@ -7,4 +7,6 @@ Serbian-Frontal-10 - Authorship Attribution Dataset and Code
   reversed chronological order ending approximatelly by Jan 2023, so
   the posts froom 11 to 20 should be used for training, and posts 1-10
   for testing.
-2023-01-31 - Data and code will be added soon
+
+2023-01-31 - Repository creation. Data and code will be added soon.
+
